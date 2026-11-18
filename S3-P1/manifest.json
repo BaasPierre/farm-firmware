@@ -1,9 +1,9 @@
 {
   "platform": "S3-P1",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "min_version": "",
-  "url": "https://raw.githubusercontent.com/BaasPierre/farm-firmware/main/S3-P1/farm-0.1.1-S3-P1.bin",
-  "size": 1427456,
-  "sha256": "1c2e2d95aafe67aa3c99220794e26e407c2e1d673d8ec4e3f8b7ebae46758e97",
-  "changelog": "First field-test release: firmware updates from the Status page, 31-day event log, fixes for first-boot hang and settings page"
+  "url": "https://raw.githubusercontent.com/BaasPierre/farm-firmware/main/S3-P1/farm-0.1.2-S3-P1.bin",
+  "size": 1491312,
+  "sha256": "52e46778e2a5e130cf46a65e7872a8441c6cd08d0c6697adba8904503ac5e7d3",
+  "changelog": "Remote control (Silence / relay off / test from the server), automatic server login, logout button, Telegram problems shown on the status page, event log keeps 2000 events"
 }
